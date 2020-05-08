@@ -33,8 +33,8 @@ kubectl create -f java.yaml -n Java
 
 Call URL
 ```ruby
-http://[NodeIP]
-http://login.10.10.10.10.nip.io
+http://[NodeIP]/webapp
+http://login.10.10.10.10.nip.io/webapp
 ```
 ## [](https://github.com/OktaySavdi/kubernetes_java_example) Screen
 
