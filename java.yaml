@@ -55,7 +55,7 @@ metadata:
   name: java-ingress
 spec:
   rules:
-  - host: login.10.10.10.10.nip.io
+  - host: java.10.10.10.10.nip.io
     http:
       paths:
       - path: /webapp
